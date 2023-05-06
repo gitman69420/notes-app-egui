@@ -1,6 +1,6 @@
 # How to run
 
-1. Clone repo (mostly `master branch`)
+1. Clone repo (mostly `master` branch)
 2. Enter the directory (`cd notes-app-egui`)
 3. Run `cargo build`
 4. Run app `cargo run`
